@@ -1,4 +1,4 @@
-# Documentation: Distributed Chord Protocol Implementation
+# Distributed Chord Protocol
 
 O să mă iau să descriu funcționalitatea temei începând de la main, intrând prin toate ramificațiile acesteia în alte funcții și modul în care funcționează codul și cum am făcut implementarea
 
