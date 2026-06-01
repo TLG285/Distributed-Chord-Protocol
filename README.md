@@ -2,7 +2,7 @@
 
 O să mă iau să descriu funcționalitatea temei începând de la main, intrând prin toate ramificațiile acesteia în alte funcții și modul în care funcționează codul și cum am făcut implementarea
 
-## 1. Inițializarea Programului (Main)cite
+## 1. Inițializarea Programului (Main)
 În main totul începe prin inițializarea programului:
 * **Init**: Familiarizează programul nostru cu faptul că este rulat pe mai multe procese.
 * **Comunicare**: Îi comunicăm care e rank-ul procesului curent și câte procese avem în total în cadrul programului nostru.
